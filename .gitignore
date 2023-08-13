@@ -2,8 +2,6 @@
 [Bb]in/
 .nuget/
 _ReSharper.*
-packages/
-artifacts/
 *.user
 *.suo
 *.userprefs
